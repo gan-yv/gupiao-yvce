@@ -1,0 +1,14 @@
+{
+    "model": "Full",
+    "input_dim": 30,
+    "device": "cuda",
+    "time_cost": 141.68365597724915,
+    "best_epoch": 142,
+    "best_loss": 0.0001740002821212069,
+    "max_epochs": 200,
+    "patience": 20,
+    "lr_scheduler_patience": 15,
+    "lr_scheduler_factor": 0.5,
+    "batch_size": 16,
+    "learning_rate": 0.0001
+}
